@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angulartestappformaterials": {
+      "hosting": {
+        "angular-tour-of-heroes": [
+          "angulartestappformaterials"
+        ]
+      }
+    }
+  }
+}
